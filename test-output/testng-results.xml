@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69255" started-at="2018-08-12T17:25:30Z" finished-at="2018-08-12T17:26:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69255" started-at="2018-08-12T17:25:30Z" finished-at="2018-08-12T17:26:39Z">
+      <class name="tests.MyTests">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.MyTests@11d7fff]" name="beforeMethod" is-config="true" duration-ms="2761" started-at="2018-08-12T22:55:30Z" finished-at="2018-08-12T22:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:tests.MyTests@11d7fff]" name="Test1" duration-ms="5925" started-at="2018-08-12T22:55:33Z" finished-at="2018-08-12T22:55:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="afterMehod()[pri:0, instance:tests.MyTests@11d7fff]" name="afterMehod" is-config="true" duration-ms="936" started-at="2018-08-12T22:55:39Z" finished-at="2018-08-12T22:55:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMehod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.MyTests@11d7fff]" name="beforeMethod" is-config="true" duration-ms="2217" started-at="2018-08-12T22:55:40Z" finished-at="2018-08-12T22:55:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:tests.MyTests@11d7fff]" name="Test2" duration-ms="18047" started-at="2018-08-12T22:55:42Z" finished-at="2018-08-12T22:56:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="afterMehod()[pri:0, instance:tests.MyTests@11d7fff]" name="afterMehod" is-config="true" duration-ms="903" started-at="2018-08-12T22:56:00Z" finished-at="2018-08-12T22:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMehod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.MyTests@11d7fff]" name="beforeMethod" is-config="true" duration-ms="2303" started-at="2018-08-12T22:56:01Z" finished-at="2018-08-12T22:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test4()[pri:0, instance:tests.MyTests@11d7fff]" name="Test4" duration-ms="35267" started-at="2018-08-12T22:56:03Z" finished-at="2018-08-12T22:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method status="PASS" signature="afterMehod()[pri:0, instance:tests.MyTests@11d7fff]" name="afterMehod" is-config="true" duration-ms="880" started-at="2018-08-12T22:56:38Z" finished-at="2018-08-12T22:56:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMehod -->
+      </class> <!-- tests.MyTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
